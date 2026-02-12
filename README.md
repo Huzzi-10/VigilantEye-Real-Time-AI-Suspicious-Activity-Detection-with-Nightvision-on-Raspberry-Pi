@@ -11,7 +11,6 @@
 - User-friendly GUI for live feed monitoring
 - Hardware integration (Raspberry Pi + sensors)
 </br>
-</br>
 
 ## Hardware Components
 - Raspberry Pi 5 (8GB RAM)
