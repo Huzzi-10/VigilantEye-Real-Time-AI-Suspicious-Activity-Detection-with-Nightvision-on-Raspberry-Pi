@@ -20,5 +20,3 @@
 - Breadboard & Jumper Wires
 - Green & Red Leds
 - Buzzer
-
-
