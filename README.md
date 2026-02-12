@@ -15,8 +15,10 @@
 
 ## Hardware Components
 - Raspberry Pi 5 (8GB RAM)
-- Infrared Camera
-- IR LEDs for night vision
-- LDR sensor
+- Raspberry Pi Camera Module 3 NoIR
+- IR LEDs & Illuminator with built-in LDR sensor for night vision
+- Breadboard & Jumper Wires
+- Green & Red Leds
 - Buzzer
-- NRF24L01 module (optional)
+
+
