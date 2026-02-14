@@ -1,5 +1,5 @@
 # PiLENS: Raspberry Pi–Based Deep Learning Enhanced Nightvision Surveillance System
-**An IoT-based AI system for real-time suspicious activity detection using YOLO, CNN, LSTM on Raspberry Pi with nightvision camera. Features multi-mode alerts, secure remote access, and selective storage**
+*An IoT-based AI system for real-time suspicious activity detection using YOLO, CNN, LSTM on Raspberry Pi with nightvision camera. Features multi-mode alerts, secure remote access, and selective storage*
 </br>
 </br>
 
