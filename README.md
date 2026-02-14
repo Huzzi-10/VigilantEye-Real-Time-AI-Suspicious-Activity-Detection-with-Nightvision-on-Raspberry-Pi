@@ -55,6 +55,10 @@ This project aims to provide a low-cost, portable solution for enhanced security
 
 </br>
 
+![Featural_Image](Figures/Featural_Image.png)
+
+</br>
+
 ## Installation & Setup
 1. Clone the repository: `git clone https://github.com/Huzzi-10/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi.git`
 2. Navigate to the directory: `cd [Folder Name]`
