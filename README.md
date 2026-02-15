@@ -160,3 +160,5 @@ PiLENS is not just a surveillance tool; it is a smart, AI-powered security syste
 - Add long-distance wireless with NRF antenna.
 - Implement continual learning for model adaptation.
 - Deploy on multiple RPi devices for distributed surveillance.
+
+This Project is also under development on new features like Mobile Application Development and secondly audio detection...
