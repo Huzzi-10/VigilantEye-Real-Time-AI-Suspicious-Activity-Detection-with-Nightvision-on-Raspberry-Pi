@@ -92,6 +92,58 @@ PiLENS combines hardware and software solutions:
 PiLENS is not just a surveillance tool; it is a smart, AI-powered security system designed to provide reliable detection, low-cost implementation, and scalability. Its combination of Raspberry Pi hardware, deep learning models, and night vision makes it ideal for modern security challenges, research applications, and real-life deployment scenarios.
 
 </br>
+## Motivational Scenario
+### The Problem: Growing Security Concerns
+
+In modern institutional environments such as universities, libraries, laboratories, and campus entry points, security threats are becoming increasingly complex. Traditional surveillance systems rely heavily on human operators to continuously monitor multiple camera feeds. However, manual monitoring is prone to human fatigue, delayed reaction time, and oversight errors.
+
+- Security personnel often face challenges such as:
+- Continuous monitoring of multiple camera streams
+- Blurred or low-visibility feeds during nighttime
+- Delayed identification of suspicious activities
+- Inability to respond instantly to threats
+
+As a result, many incidents are detected too late, reducing the overall effectiveness of surveillance infrastructure.
+
+### Limitations of Manual Monitoring
+
+Manual surveillance systems suffer from several practical limitations:
+
+1. Time-Consuming Observation – Monitoring multiple screens simultaneously is mentally exhausting.
+2. Human Error – Fatigue can cause missed detections.
+3. Delayed Response – Suspicious activity may not be noticed immediately.
+4. Poor Night Visibility – Standard cameras struggle in low-light conditions.
+
+These limitations clearly indicate the need for a smarter and more automated surveillance approach.
+
+
+### The Need for a Smart Surveillance Solution
+
+With the advancement of Artificial Intelligence and embedded systems, there is a strong need to shift from passive monitoring to intelligent monitoring.
+
+An ideal system should:
+- Automatically detect unusual activities
+- Operate efficiently in low-light or night conditions
+- Send real-time alerts
+- Reduce dependency on constant human supervision
+- Provide faster response time
+
+This gap between traditional systems and intelligent automation forms the core motivation behind PiLENS.
+
+
+### Our Solution: PiLENS (Vigilant Eye)
+
+PiLENS is an AI-powered smart surveillance system designed to enhance security monitoring using modern embedded hardware and intelligent algorithms.
+
+The system integrates:
+- Infrared (IR) Camera for night vision capability
+- Raspberry Pi 5 as the central processing unit
+- AI-based detection algorithms
+- Real-time alert mechanism via Wi-Fi
+- Automated threat notification system
+
+Unlike traditional systems, PiLENS does not rely solely on human observation. Instead, it continuously analyzes live feeds, detects anomalies, and instantly notifies the concerned authority when suspicious activity is identified.
+
 
 ![Motivational Scenario](Figures/Motivational_Scenario.jpg)
 
